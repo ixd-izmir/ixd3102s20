@@ -1,17 +1,18 @@
-# VCDS3102-IxDs19
+# VCDS3102-IxDs20
 Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Spring 2019
 
 Lecturers
-Ceren Kayalar (cerenk at gmail dot com)
 Daniele Savasta (daniele dot savasta at gmail dot com)
+Ceren Kayalar (cerenk at gmail dot com)
+Doruk Türkmen (doruk dot turkmen at yasar dot edu dot tr)
 in campus at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
 
 ## Description
-This course introduces the concept and practice of physical computing and applies through a game design lens.
+This course introduces the concept and practice of physical computing and applies through a game design perspective.
 
 The aim is to design and prototype physical intefaces for interaction using the widespread electronic prototyping platforms (e.g. Arduino, Raspberry Pi).
 
-The main outcome will consist in a design proposal for an installation in a museum of Izmir.
+The final outcome will consist in a design proposal for an installation in a museum of Izmir.
 
 The contribution of external professionals and academicians will help to clarify the complexity of the work and the involved stakeholder.
 
