@@ -44,7 +44,8 @@ The contribution of external professionals and academicians will help to clarify
 | Week | Date | Subject | Assignments |
 |:---:|:-------------|:-------------| -----:|
 | 1 | Feb 3<br>Mon | [Intro](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb3.md) | |
-| 2 | Feb 5<br>Thu | [Review and Bubbles](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb5.md) | [Assignments](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/feb5.md) |
+| 2 | Feb 5<br>Thu | [Review and Bubbles](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb5.md) | [Game Research](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/gameResearch.md),[Concept Generation 1](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md) |
+| 3 | Feb 10<br>Mon | | [Concept Generation 2](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md), Watch Indie Games: the movie |
 
 
 
