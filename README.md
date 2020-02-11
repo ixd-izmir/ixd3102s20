@@ -49,6 +49,8 @@ The contribution of external professionals and academicians will help to clarify
 - [How to Write a Game Design Document](https://www.gamasutra.com/blogs/LeandroGonzalez/20160726/277928/How_to_Write_a_Game_Design_Document.php)
 - [A GDD Template for the Indie Developer](https://www.gamasutra.com/blogs/JasonBakker/20090604/84211/A_GDD_Template_for_the_Indie_Developer.php)
 - [12 ways to improve turn-based RPG combat systems](https://sinisterdesign.net/12-ways-to-improve-turn-based-rpg-combat-systems/)
+- [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
+- [Arcade Lettering from Snow Bros. (1990)](https://codepen.io/lynnandtonic/pen/rNVNpmN)
 
 ## Games
 - [indiegameplus](https://indiegamesplus.com)
