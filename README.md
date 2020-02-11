@@ -46,8 +46,7 @@ The contribution of external professionals and academicians will help to clarify
 | 1 | Feb 3<br>Mon | [Intro](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb3.md) | |
 | 2 | Feb 5<br>Thu | [Review and Bubbles](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb5.md) | [Game Research](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/gameResearch.md),[Concept Generation 1](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md) |
 | 3 | Feb 10<br>Mon | [Game Mechanics: Time 1, Development: Timer](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb10.md) | [Concept Generation 2](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md), Watch [Indie Games: the movie](https://store.steampowered.com/app/207080/Indie_Game_The_Movie/) |
-| 4 | Feb 13<br>Thu | [Game Mechanics: Time 2, Development: Timer](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb10.md) | [Concept Generation 3](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md), [Development Timer](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/timer.md) [Book Review: The Art of
-Game Design](https://drive.google.com/file/d/1URRq45Lji7QJZFahWy5mYhScC92QlsWr/view) |
+| 4 | Feb 13<br>Thu | [Game Mechanics: Time 2, Development: Timer](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/feb10.md) | [Concept Generation 3](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md), [Development Timer](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/timer.md) [Book Review: The Art of Game Design](https://drive.google.com/file/d/1URRq45Lji7QJZFahWy5mYhScC92QlsWr/view) |
 
 
 ## Ethical Rules
