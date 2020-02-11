@@ -10,3 +10,6 @@ Updating the previous bubble code by adding a timer that scales its size while a
 [millis()](https://p5js.org/reference/#/p5/millis)
 [second()](https://p5js.org/reference/#/p5/second)
 [frameCount](https://p5js.org/reference/#/p5/frameCount)
+
+### Notetakers
+Senem, Zeynep
