@@ -39,13 +39,16 @@ The contribution of external professionals and academicians will help to clarify
 - [The 13 Basic Principles of Gameplay Design](https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php)]
 - [Anatomy of a Game Mechanic](https://www.gamasutra.com/view/feature/4091/anatomy_of_a_game_mechanic.php)
 - [Evaluating Game Mechanics For Depth](https://www.gamasutra.com/view/feature/5901/evaluating_game_mechanics_for_depth.php)
+- [Taking Turns (Or Yes, It IS Your Job to Make Me Have Fun)](https://www.gamasutra.com/blogs/RobertWalker/20110602/7718/Taking_Turns_Or_Yes_It_IS_Your_Job_to_Make_Me_Have_Fun.php)
 - [Six Ways to Tell Stories in Video Games](http://www.untoldentertainment.com/blog/2010/07/14/six-ways-to-tell-stories-in-video-games/)
 - [Designing Games That Don't Suck](https://www.gamasutra.com/view/feature/4072/designing_games_that_dont_suck.php)
+- [What Makes a Great Game? The Key Elements of Successful Games](https://www.pluralsight.com/blog/film-games/what-makes-a-great-game-the-key-elements-of-successful-games)
 - [Donts](http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm)
 - [Beginning Level Design](https://www.gamasutra.com/view/feature/131736/beginning_level_design_part_1.php?page=1)
 - [Finishing a game](https://makegames.tumblr.com/post/1136623767/finishing-a-game)
 - [How to Write a Game Design Document](https://www.gamasutra.com/blogs/LeandroGonzalez/20160726/277928/How_to_Write_a_Game_Design_Document.php)
 - [A GDD Template for the Indie Developer](https://www.gamasutra.com/blogs/JasonBakker/20090604/84211/A_GDD_Template_for_the_Indie_Developer.php)
+- [12 ways to improve turn-based RPG combat systems](https://sinisterdesign.net/12-ways-to-improve-turn-based-rpg-combat-systems/)
 
 ## Games
 - [indiegameplus](https://indiegamesplus.com)
