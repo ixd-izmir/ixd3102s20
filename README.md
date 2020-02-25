@@ -88,6 +88,8 @@ The contribution of external professionals and academicians will help to clarify
 | 6 | Feb  20<br>Thu |  | Readings: [Analyzing Time in Videogames](https://drive.google.com/drive/u/1/folders/1NkNIJBdLPmnBI8EkpIPO8aAyBG0frBhc), Design: [Concept Generation 4](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/conceptGeneration.md) Present at least 12 ideas, Mind the format; Develop: [Character jump](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/character_jump.md) |
 | 7 | Feb  24<br>Thu |  | |
 | 8 | Feb  27<br>Thu |  | Readings: [Game as Art](https://drive.google.com/file/d/1DomfswwIfh20sbuAbetn1Ay_jxtsgK3L/view), Design: [Character Design](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/characterDesign.md) |
+| 9 | Mar  5<br>Thu |  Apikam Presentation + Exhibition Visit @Apikam |  |
+
 
 ## Ethical Rules
 Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered unauthorized. Therefore, any reproduction, representation, adaptation, translation and/or modification of someone else’s work, partial or total, is prohibited. Students may consult with other students for conceptual and debugging help while working on their code, but unless specified on the assignment, the final code submitted should be written, tested and documented by the student. The case of using code snippets from online sources is allowed up to being 10% of the student’s submission with proper comments in the submission referring to the original source. Any student observed to not have adhered to these rules, will be subject to disciplinary action.
