@@ -90,6 +90,7 @@ The contribution of external professionals and academicians will help to clarify
 | 7 | Feb  24<br>Thu |  | |
 | 8 | Feb  27<br>Thu |  | Readings: [Game as Art](https://drive.google.com/file/d/1DomfswwIfh20sbuAbetn1Ay_jxtsgK3L/view), Design: [Character Design](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/characterDesign.md) |
 | 9 | Mar  5<br>Thu |  Apikam Presentation + Exhibition Visit @Apikam |  |
+| 10 | Mar  9<br>Mon |   | Listening: [GDD 006 : Characters, Control, and Mechanics](http://gamedesigndojo.com/gdd-006/) |
 
 
 ## Ethical Rules
