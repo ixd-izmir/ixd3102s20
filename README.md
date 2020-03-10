@@ -90,7 +90,7 @@ The contribution of external professionals and academicians will help to clarify
 | 4 | Feb  24<br>Mon |  | |
 | 4 | Feb  27<br>Thu |  | Readings: [Game as Art](https://drive.google.com/file/d/1DomfswwIfh20sbuAbetn1Ay_jxtsgK3L/view), Design: [Character Design](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/characterDesign.md) |
 | 5 | Mar  5<br>Thu |  Apikam Presentation + Exhibition Visit @Apikam |  |
-| 6 | Mar  9<br>Mon |   | Listening: [GDD 006 : Characters, Control, and Mechanics](http://gamedesigndojo.com/gdd-006/), Watch: [Jamie Antonisse (Disney) - Building a Paper Prototype For Your Narrative Design @GDC2014](https://www.youtube.com/watch?v=taxcb_5lEI8) Design: [Paper Prototype](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/paperPrototype.md) |
+| 6 | Mar  9<br>Mon |   | Listening: [GDD 006 : Characters, Control, and Mechanics](http://gamedesigndojo.com/gdd-006/), Watch: [Jamie Antonisse (Disney) - Building a Paper Prototype For Your Narrative Design @GDC2014](https://www.youtube.com/watch?v=taxcb_5lEI8) Reading: [Paper Prototyping @MIT GameLab](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-slides-and-readings/MITCMS_611JF14_Paper_Prot.pdf) Design: [Paper Prototype](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/paperPrototype.md) |
 
 
 ## Ethical Rules
