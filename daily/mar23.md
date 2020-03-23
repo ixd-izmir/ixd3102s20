@@ -23,4 +23,4 @@ After installation, to share your code on Atom:
 3. Flip the switch share
 4. You will receive a link that you need to share to whom you want to collaborate to. That person will have access to your code from their computer in remote.
 
-##
+## 
