@@ -10,9 +10,9 @@ We need to try and make errors, to make better mistakes tomorrow.
 [How to join a meeting in Zoom](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting)
 
 Today's link, starting at 9.30: https://us04web.zoom.us/j/441717756?pwd=WGFObzVJUTQxaUNNYTdUaVdFc2ZPQT09
-Second session https://us04web.zoom.us/j/835997345?pwd=MStHTG84S0twaWRDRnNiVWduTEdUUT09
-10.45 session https://us04web.zoom.us/j/498831026?pwd=bS9lSnQvaE8zTWRlUDAwQXlWM1NrUT09		
-11.25 session https://us04web.zoom.us/j/672989640?pwd=dDdhVTFVMElYZkZpRzRvOC9nZzA1QT09			
+- Second session https://us04web.zoom.us/j/835997345?pwd=MStHTG84S0twaWRDRnNiVWduTEdUUT09
+- 10.45 session https://us04web.zoom.us/j/498831026?pwd=bS9lSnQvaE8zTWRlUDAwQXlWM1NrUT09		
+- 11.25 session https://us04web.zoom.us/j/672989640?pwd=dDdhVTFVMElYZkZpRzRvOC9nZzA1QT09			
 					
 					
 					
