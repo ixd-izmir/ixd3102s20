@@ -11,7 +11,11 @@ We need to try and make errors, to make better mistakes tomorrow.
 
 Today's link, starting at 9.30: https://us04web.zoom.us/j/441717756?pwd=WGFObzVJUTQxaUNNYTdUaVdFc2ZPQT09
 Second session https://us04web.zoom.us/j/835997345?pwd=MStHTG84S0twaWRDRnNiVWduTEdUUT09
-
+10.45 session https://us04web.zoom.us/j/498831026?pwd=bS9lSnQvaE8zTWRlUDAwQXlWM1NrUT09		
+					
+					
+					
+					
 ## Code together with Teletype in Atom
 Follow the link below to install Teletype on your Atom.
 [Teletype official page](https://teletype.atom.io/)
