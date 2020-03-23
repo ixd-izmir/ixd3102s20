@@ -94,7 +94,7 @@ The contribution of external professionals and academicians will help to clarify
 | 6 | Mar 12<br>Thu |   | Watch: [Jamie Antonisse (Disney) - Building a Paper Prototype For Your Narrative Design @GDC2014](https://www.youtube.com/watch?v=taxcb_5lEI8) Reading: [Paper Prototyping @MIT GameLab](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-slides-and-readings/MITCMS_611JF14_Paper_Prot.pdf) Design: [Paper Prototype](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/paperPrototype.md) |
 | 7 | Mar 16<br>Mon | Suspended |  |
 | 7 | Mar 19<br>Thu | Suspended |  |
-| 8 | Mar 23<br>Mon | Online> 1st session: Regroup, Review, Restart | Design: [P1 Advancement](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/p1advancement23mar.md) |
+| 8 | Mar 23<br>Mon | Online> 1st session: [Regroup, Review, Restart](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/mar23.md) | Design: [P1 Advancement](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/p1advancement23mar.md) |
 | 8 | Mar 26<br>Thu | Online> 2nd session: |  |
 
 ## Ethical Rules
