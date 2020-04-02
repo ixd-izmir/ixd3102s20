@@ -56,6 +56,10 @@ The contribution of external professionals and academicians will help to clarify
 - [indiegameplus](https://indiegamesplus.com)
 
 ## Game Design
+
+### Design
+- [Pyxel Edit: Pixel Art Editor](https://pyxeledit.com)
+
 ### Isometric games
 - [Isometric Games](https://www.youtube.com/watch?v=KvSjJ-kdGio)
 - [2.5D](https://en.wikipedia.org/wiki/2.5D)
