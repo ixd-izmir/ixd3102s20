@@ -112,7 +112,7 @@ The best way to document the game's structure is with a flowboard. The word is a
 | 8 | Apr 2<br>Thu | Online review: | Reading: (Brathwaite, ch13)[https://drive.google.com/open?id=1wsJCEMNuvVaH8oCgKfiFBUKhH3izLn8x] |
 | 9 | Apr 6<br>Mon | Online review: |  |
 | 9 | Apr 9<br>Thu | Online review: |  |
-| 10 | Apr 13<br>Mon | Online review: |  |
+| 10 | Apr 13<br>Mon | Online review: | Design & Develop: [P1 Advancement](https://github.com/ixd-izmir/ixd3102s20/blob/master/assignments/p1advancement13apr.md) |
 
 
 
