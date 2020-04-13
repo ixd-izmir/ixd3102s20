@@ -51,6 +51,8 @@ The contribution of external professionals and academicians will help to clarify
 - [12 ways to improve turn-based RPG combat systems](https://sinisterdesign.net/12-ways-to-improve-turn-based-rpg-combat-systems/)
 - [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
 - [Arcade Lettering from Snow Bros. (1990)](https://codepen.io/lynnandtonic/pen/rNVNpmN)
+- [Designer's Notebook: Designing with Gameplay Modes and Flowboards](https://www.gamasutra.com/view/feature/2101/designers_notebook_designing_.php)
+The best way to document the game's structure is with a flowboard. The word is a combination of "flowchart" and "storyboard." Like a storyboard, it consists of a number of pictures, but unlike a film storyboard, it's not a linear series. Rather, each picture is a sketch, or mockup, of the screen in one particular gameplay mode. Under the picture is the mode's name and a brief description of its perspective, interaction model, challenges, and actions. Connecting the pictures together are arrows showing how the modes switch from one to the next, with a text notation to indicate when and why the transition takes place.
 
 ## Games
 - [indiegameplus](https://indiegamesplus.com)
@@ -104,10 +106,17 @@ The contribution of external professionals and academicians will help to clarify
 | 6 | Mar 12<br>Thu |   | Watch: [Jamie Antonisse (Disney) - Building a Paper Prototype For Your Narrative Design @GDC2014](https://www.youtube.com/watch?v=taxcb_5lEI8) Reading: [Paper Prototyping @MIT GameLab](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-slides-and-readings/MITCMS_611JF14_Paper_Prot.pdf) Design: [Paper Prototype](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/paperPrototype.md) |
 | 7 | Mar 16<br>Mon | Suspended |  |
 | 7 | Mar 19<br>Thu | Suspended |  |
-| 8 | Mar 23<br>Mon | Online> 1st session: [Regroup, Review, Restart](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/mar23.md) | Design: [P1 Advancement](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/p1advancement23mar.md) |
-| 8 | Mar 26<br>Thu | Online> 2nd session: | Reading: [Guide to level design](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-designing-video-game-levels--cms-25662),  Watch: [Intro to github(https://youtu.be/BCQHnlnPusY)] |
-| 9 | Mar 30<br>Mon | Online review: |  |
-| 9 | Apr 2<br>Thu | Online review: | Reading: (Brathwaite, ch13)[https://drive.google.com/open?id=1wsJCEMNuvVaH8oCgKfiFBUKhH3izLn8x] |
+| 7 | Mar 23<br>Mon | Online> 1st session: [Regroup, Review, Restart](https://github.com/ixd-izmir/ixd3102f20/blob/master/daily/mar23.md) | Design: [P1 Advancement](https://github.com/ixd-izmir/ixd3102f20/blob/master/assignments/p1advancement23mar.md) |
+| 7 | Mar 26<br>Thu | Online> 2nd session: | Reading: [Guide to level design](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-designing-video-game-levels--cms-25662),  Watch: [Intro to github(https://youtu.be/BCQHnlnPusY)] |
+| 8 | Mar 30<br>Mon | Online review: |  |
+| 8 | Apr 2<br>Thu | Online review: | Reading: (Brathwaite, ch13)[https://drive.google.com/open?id=1wsJCEMNuvVaH8oCgKfiFBUKhH3izLn8x] |
+| 9 | Apr 6<br>Mon | Online review: |  |
+| 9 | Apr 9<br>Thu | Online review: |  |
+| 10 | Apr 13<br>Mon | Online review: |  |
+
+
+
+
 
 ## Ethical Rules
 Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered unauthorized. Therefore, any reproduction, representation, adaptation, translation and/or modification of someone else’s work, partial or total, is prohibited. Students may consult with other students for conceptual and debugging help while working on their code, but unless specified on the assignment, the final code submitted should be written, tested and documented by the student. The case of using code snippets from online sources is allowed up to being 10% of the student’s submission with proper comments in the submission referring to the original source. Any student observed to not have adhered to these rules, will be subject to disciplinary action.
