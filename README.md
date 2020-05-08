@@ -54,6 +54,12 @@ The contribution of external professionals and academicians will help to clarify
 - [Designer's Notebook: Designing with Gameplay Modes and Flowboards](https://www.gamasutra.com/view/feature/2101/designers_notebook_designing_.php)
 The best way to document the game's structure is with a flowboard. The word is a combination of "flowchart" and "storyboard." Like a storyboard, it consists of a number of pictures, but unlike a film storyboard, it's not a linear series. Rather, each picture is a sketch, or mockup, of the screen in one particular gameplay mode. Under the picture is the mode's name and a brief description of its perspective, interaction model, challenges, and actions. Connecting the pictures together are arrows showing how the modes switch from one to the next, with a text notation to indicate when and why the transition takes place.
 
+## P2: Designing Online Exhibition Experiences 
+- [Google Night Walk](https://promenadenocturne.withgoogle.com/en/home)
+- [London Transport Museum](https://www.ltmuseum.co.uk/collections/collections-online)
+- [Rijksmuseum - Bold Monday](https://www.boldmonday.com/custom/rijksmuseum/)
+- [Rijksmuseum - Identity](https://www.fabrique.com/cases/digital-design-and-development/rijksmuseum/)
+- [High Museum of Art - Identity](http://archive.secondstory.com/projects/browse/featured-work)
 
 ## Games
 - [indiegameplus](https://indiegamesplus.com)
