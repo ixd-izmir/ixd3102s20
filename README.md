@@ -1,5 +1,5 @@
 # VCDS3102-IxDs20
-Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Spring 2019
+Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Spring 2020
 
 Lecturers
 Daniele Savasta (daniele dot savasta at gmail dot com)
@@ -37,10 +37,16 @@ The contribution of external professionals and academicians will help to clarify
 - [Rijksmuseum - Identity](https://www.fabrique.com/cases/digital-design-and-development/rijksmuseum/)
 - [High Museum of Art - Identity](http://archive.secondstory.com/projects/browse/featured-work)
 
+### Theory
+- [Norman's Three Levels of Design: Visceral, Behavioral, Reflective](https://www.interaction-design.org/literature/article/norman-s-three-levels-of-design)
+
 ### Tools
 - [UXtools.co](https://uxtools.co): Don't get lost in the variety of tools. UXtools provides detailed comparison of tools designers use currently (based on their 2019 survey), check the tables and gain insight on which tool to choose for which design step. Most related comparison tables for our current purpose:
 -- [UX Tools Comparison: Design](https://uxtools.co/tools/design)
 -- [UX Tools Comparison: Prototyping](https://uxtools.co/tools/prototyping)
+- [Component States @XD](https://letsxd.com/states): Start practicing with your tools, this link provides an XD project to introduce the states of components and animations you can prototype with XD.
+
+### List of Museums
 
 
 
