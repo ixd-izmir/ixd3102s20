@@ -38,7 +38,7 @@ The contribution of external professionals and academicians will help to clarify
 - [High Museum of Art - Identity](http://archive.secondstory.com/projects/browse/featured-work)
 
 ### Tools
-- [UXtools.co](https://uxtools.co): There are many tools for different purposes to be used in the design process. UXtools provides detailed comparison of tools designers use currently (based on their 2019 survey), check the tables and gain insight on which tool to choose for your design steps. Most related for our current purpose:
+- [UXtools.co](https://uxtools.co): Don't get lost in the variety of tools. UXtools provides detailed comparison of tools designers use currently (based on their 2019 survey), check the tables and gain insight on which tool to choose for which design step. Most related comparison tables for our current purpose:
 -- [UX Tools Comparison: Design](https://uxtools.co/tools/design)
 -- [UX Tools Comparison: Prototyping](https://uxtools.co/tools/prototyping)
 
