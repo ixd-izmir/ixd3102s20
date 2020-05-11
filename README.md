@@ -77,12 +77,10 @@ The contribution of external professionals and academicians will help to clarify
 The best way to document the game's structure is with a flowboard. The word is a combination of "flowchart" and "storyboard." Like a storyboard, it consists of a number of pictures, but unlike a film storyboard, it's not a linear series. Rather, each picture is a sketch, or mockup, of the screen in one particular gameplay mode. Under the picture is the mode's name and a brief description of its perspective, interaction model, challenges, and actions. Connecting the pictures together are arrows showing how the modes switch from one to the next, with a text notation to indicate when and why the transition takes place.
 
 
-## Games
+### Games
 - [indiegameplus](https://indiegamesplus.com)
 
-## Game Design
-
-### Design
+### Design Tools
 - [Pyxel Edit: Pixel Art Editor](https://pyxeledit.com)
 
 ### Isometric games
@@ -98,7 +96,7 @@ The best way to document the game's structure is with a flowboard. The word is a
 - [Increpare games](https://www.increpare.com)
 - [p5 play](https://molleindustria.github.io/p5.play/)
 
-## CODE
+### CODE
 - [Collision Detection](http://www.jeffreythompson.org/collision-detection/)
 - [p5js Timer](https://github.com/musa11971/p5js-timer)
 - [Tile Maps @Compform](http://compform.net/tiles/)
