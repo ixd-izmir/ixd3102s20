@@ -41,6 +41,7 @@ The contribution of external professionals and academicians will help to clarify
 - [Norman's Three Levels of Design: Visceral, Behavioral, Reflective](https://www.interaction-design.org/literature/article/norman-s-three-levels-of-design)
 
 ### Tools
+- [File Optimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer): Please compress your pdf files before uploading to Drive
 - [UXtools.co](https://uxtools.co): Don't get lost in the variety of tools. UXtools provides detailed comparison of tools designers use currently (based on their 2019 survey), check the tables and gain insight on which tool to choose for which design step. Most related comparison tables for our current purpose:
 -- [UX Tools Comparison: Design](https://uxtools.co/tools/design)
 -- [UX Tools Comparison: Prototyping](https://uxtools.co/tools/prototyping)
