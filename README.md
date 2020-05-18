@@ -50,7 +50,7 @@ The contribution of external professionals and academicians will help to clarify
 - [https://www.figma.com/@microsoft](https://www.figma.com/@microsoft)
 
 
-### List of Museums
+### Museums & Exhibitions (Class Collection)
 - [Arkas Art Center](http://www.arkassanatmerkezi.com/En/)
 - [Bristol Museums](https://exhibitions.bristolmuseums.org.uk)
 - [Chaumet Museum](https://www.chaumet.com/en/exhibitions)
