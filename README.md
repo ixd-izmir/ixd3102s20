@@ -68,7 +68,7 @@ The contribution of external professionals and academicians will help to clarify
 - [moMA](https://www.moma.org)
 - [Museo Frida Kahlo](https://www.museofridakahlo.org.mx/en/the-blue-house/your-visit/)
 - [Museum of Broken Relationships](https://brokenships.com/explore)
-- ["National Archaeological Museum]( Madrid"](https://www.manvirtual.es/)
+- [National Archaeological Museum, Madrid](https://www.manvirtual.es/)
 - [National Museum of Natural History](https://naturalhistory.si.edu/)
 - [OMM: Odunpazari Modern Museum](https://omm.art/en/exhibitions)
 - [Pera Museum](https://www.peramuseum.org/)
