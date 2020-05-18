@@ -46,6 +46,9 @@ The contribution of external professionals and academicians will help to clarify
 -- [UX Tools Comparison: Design](https://uxtools.co/tools/design)
 -- [UX Tools Comparison: Prototyping](https://uxtools.co/tools/prototyping)
 - [Component States @XD](https://letsxd.com/states): Start practicing with your tools, this link provides an XD project to introduce the states of components and animations you can prototype with XD.
+- [Octopus.do: Visual Sitemap Builder](https://octopus.do)
+- [https://www.figma.com/@microsoft](https://www.figma.com/@microsoft)
+
 
 ### List of Museums
 
